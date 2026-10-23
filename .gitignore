@@ -9,5 +9,4 @@ target
 .md-*
 hidden
 branch_structure.json
-temp_interactive_push.bat
 .gitignore
