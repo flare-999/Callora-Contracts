@@ -2,12 +2,11 @@ target
 **/test_snapshots
 *.rs.bk
 .DS_Store
-.env
-.env.*
 /target/
 /target_local/
 .md-*
 hidden
 branch_structure.json
-temp_interactive_push.bat
 .gitignore
+config.bat
+node_modules
